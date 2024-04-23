@@ -39,6 +39,12 @@ How paid:
   - End of Life notification policy.
 - Other
 
+Need Home Page:
+- Purpose of Page
+- Link to User Query Page (Find Relay)
+- Link to Relay Management Page (List Relay)
+- Link to Recommendations Page
+
 Need User Query Page\*:
 
 - allows users to search for applicable relays.
